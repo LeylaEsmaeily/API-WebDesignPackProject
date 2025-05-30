@@ -4,31 +4,31 @@
       "id": 1,
       "name": "شگفت انگیزها",
       "link": "#",
-      "icon": "src/images/header/image-1.jpg"
+      "icon": "https://s33.picofile.com/file/8484785476/image_1.jpg"
     },
     {
       "id": 2,
       "name": "سوپرمارکت",
       "link": "#",
-      "icon": "src/images/header/image-2.jpg"
+      "icon": "https://s33.picofile.com/file/8484785484/image_2.jpg"
     },
     {
       "id": 3,
       "name": "طلای دیجیتال",
       "link": "#",
-      "icon": "/src/images/header/image-3.jpg"
+      "icon": "https://s33.picofile.com/file/8484785492/image_3.jpg"
     },
     {
       "id": 4,
       "name": "پرفروش ترین ها",
       "link": "#",
-      "icon": "/src/images/header/image-4.jpg"
+      "icon": "https://s33.picofile.com/file/8484785518/image_4.jpg"
     },
     {
       "id": 5,
       "name": "خرید کالای کارکرده",
       "link": "#",
-      "icon": "/src/images/header/image-5.jpg"
+      "icon": "https://s33.picofile.com/file/8484785534/image_5.jpg"
     },
     {
       "id": 6,
@@ -47,177 +47,177 @@
     {
       "id": 1,
       "title": "مشاوره خرید بردگیم و بازی",
-      "image": "/src/images/story/image-01.jpg",
+      "image": "https://s33.picofile.com/file/8484786268/image_01.jpg",
       "live": "۱۲:۰۰",
       "alt": ""
     },
     {
       "id": 2,
       "title": "مشاوره خرید ابزار خانگی و صنعتی",
-      "image": "/src/images/story/image-02.jpg",
+      "image": "https://s33.picofile.com/file/8484786276/image_02.jpg",
       "live": "۱۴:۰۰",
       "alt": ""
     },
     {
       "id": 3,
       "title": "مشاوره خرید لوازم خانگی برقی",
-      "image": "/src/images/story/image-03.jpg",
+      "image": "https://s33.picofile.com/file/8484786284/image_03.jpg",
       "live": "۱۵:۰۰",
       "alt": ""
     },
     {
       "id": 4,
       "title": "شامپو مو کانتو",
-      "image": "/src/images/story/image-04.jpg",
+      "image": "https://s33.picofile.com/file/8484786300/image_04.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 5,
       "title": "ریمل با رنگ آبی",
-      "image": "/src/images/story/image-05.jpg",
+      "image": "https://s33.picofile.com/file/8484786318/image_05.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 6,
       "title": "هویه سانشاین بگیرم؟",
-      "image": "/src/images/story/image-06.jpg",
+      "image": "https://s33.picofile.com/file/8484786326/image_06.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 7,
       "title": "سلاح روزای گرم☀️",
-      "image": "/src/images/story/image-07.jpg",
+      "image": "https://s33.picofile.com/file/8484786334/image_07.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 8,
       "title": "کوچولوی پر سر و صدا!",
-      "image": "/src/images/story/image-08.jpg",
+      "image": "https://s33.picofile.com/file/8484786350/image_08.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 9,
       "title": "تعمیر کولر آبی",
-      "image": "/src/images/story/image-09.jpg",
+      "image": "https://s33.picofile.com/file/8484786368/image_09.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 10,
       "title": "اسکمی یا نیوی فورس؟",
-      "image": "/src/images/story/image-10.jpg",
+      "image": "https://s33.picofile.com/file/8484786376/image_10.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 11,
       "title": "رویال یا رفلکس",
-      "image": "/src/images/story/image-11.jpg",
+      "image": "https://s33.picofile.com/file/8484786384/image_11.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 12,
       "title": "انتقال فایل آیفون به اندروید",
-      "image": "/src/images/story/image-12.jpg",
+      "image": "https://s33.picofile.com/file/8484786392/image_12.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 13,
       "title": " دوربین دوچشمی آی‌بر 20x50",
-      "image": "/src/images/story/image-13.jpg",
+      "image": "https://s33.picofile.com/file/8484786400/image_13.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 14,
       "title": "تفنگ یا ماساژور !؟ 🤔",
-      "image": "/src/images/story/image-14.jpg",
+      "image": "https://s33.picofile.com/file/8484786418/image_14.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 15,
       "title": "لیپ گلاس محبوب کیکو میلانو",
-      "image": "/src/images/story/image-15.jpg",
+      "image": "https://s33.picofile.com/file/8484786426/image_15.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 16,
       "title": "کوچولوی شگفت‌انگیز!",
-      "image": "/src/images/story/image-16.jpg",
+      "image": "https://s33.picofile.com/file/8484786442/image_16.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 17,
       "title": "اصلا نشتی نداشت!!!",
-      "image": "/src/images/story/image-17.jpg",
+      "image": "https://s33.picofile.com/file/8484786450/image_17.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 18,
       "title": "این بخور واقعا نیازت میشه",
-      "image": "/src/images/story/image-18.jpg",
+      "image": "https://s33.picofile.com/file/8484786468/image_18.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 19,
       "title": "چرا باید مودم‌همراه بخریم؟",
-      "image": "/src/images/story/image-19.jpg",
+      "image": "https://s33.picofile.com/file/8484786476/image_19.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 20,
       "title": "Sony a6700 🤌🏼🔥",
-      "image": "/src/images/story/image-20.jpg",
+      "image": "https://s33.picofile.com/file/8484786484/image_20.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 21,
       "title": "بهترین شوره‌گیر کولر",
-      "image": "/src/images/story/image-21.jpg",
+      "image": "https://s33.picofile.com/file/8484786492/image_21.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 22,
       "title": "کیف لوازم آرایش مسافرتی",
-      "image": "/src/images/story/image-22.jpg",
+      "image": "https://s33.picofile.com/file/8484786500/image_22.jpg",
       "live": 0,
       "alt": ""
     },
     {
       "id": 23,
       "title": "۵نکته تو خرید ظرفشویی",
-      "image": "/src/images/story/image-23.jpg",
+      "image": "https://s33.picofile.com/file/8484786518/image_23.jpg",
       "live": 0,
       "alt": ""
     }
   ],
   "mainSlider": [
-    { "id": 1, "image": "/src/images/slider/image-01.jpg", "alt": "" },
-    { "id": 2, "image": "/src/images/slider/image-02.jpg", "alt": "" },
-    { "id": 3, "image": "/src/images/slider/image-03.jpg", "alt": "" },
-    { "id": 4, "image": "/src/images/slider/image-04.jpg", "alt": "" },
-    { "id": 5, "image": "/src/images/slider/image-05.jpg", "alt": "" },
-    { "id": 6, "image": "/src/images/slider/image-06.jpg", "alt": "" },
-    { "id": 7, "image": "/src/images/slider/image-07.jpg", "alt": "" },
-    { "id": 8, "image": "/src/images/slider/image-08.jpg", "alt": "" },
-    { "id": 9, "image": "/src/images/slider/image-09.jpg", "alt": "" },
-    { "id": 10, "image": "/src/images/slider/image-10.jpg", "alt": "" },
-    { "id": 11, "image": "/src/images/slider/image-11.jpg", "alt": "" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484786134/image_01.jpg", "alt": "" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484786142/image_02.jpg", "alt": "" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484786150/image_03.jpg", "alt": "" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484786168/image_04.jpg", "alt": "" },
+    { "id": 5, "image": "https://s33.picofile.com/file/8484786184/image_05.jpg", "alt": "" },
+    { "id": 6, "image": "https://s33.picofile.com/file/8484786192/image_06.jpg", "alt": "" },
+    { "id": 7, "image": "https://s33.picofile.com/file/8484786200/image_07.jpg", "alt": "" },
+    { "id": 8, "image": "https://s33.picofile.com/file/8484786218/image_08.jpg", "alt": "" },
+    { "id": 9, "image": "https://s33.picofile.com/file/8484786226/image_09.jpg", "alt": "" },
+    { "id": 10, "image": "https://s33.picofile.com/file/8484786234/image_10.jpg", "alt": "" },
+    { "id": 11, "image": "https://s33.picofile.com/file/8484786242/image_11.jpg", "alt": "" }
   ],
   "category": [
     {
@@ -285,7 +285,7 @@
     {
       "id": 1,
       "title": "گوشی موبایل ناتینگ مدل CMF Phone 1 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
-      "image": "/src/images/incredibles/image-01.jpg",
+      "image": "https://s33.picofile.com/file/8484785700/image_01.jpg",
       "alt": "",
       "price1": "۲۱,۹۰۰,۰۰۰",
       "price2": "۱۹,۷۹۰,۰۰۰",
@@ -294,7 +294,7 @@
     {
       "id": 2,
       "title": "گوشی موبایل سامسونگ مدل Galaxy A05 دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
-      "image": "/src/images/incredibles/image-02.jpg",
+      "image": "https://s33.picofile.com/file/8484785726/image_02.jpg",
       "alt": "",
       "price1": "۹,۴۲۹,۰۰۰",
       "price2": "۸,۹۸۰,۰۰۰",
@@ -303,7 +303,7 @@
     {
       "id": 3,
       "title": "گوشی موبایل آنر مدل X9c دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
-      "image": "/src/images/incredibles/image-03.jpg",
+      "image": "https://s33.picofile.com/file/8484785734/image_03.jpg",
       "alt": "",
       "price1": "۳۳,۴۸۰,۰۰۰",
       "price2": "۳۱,۹۰۰,۰۰۰",
@@ -312,7 +312,7 @@
     {
       "id": 4,
       "title": "گوشی موبایل ناتینگ مدل Phone 2a دو سیم کارت ظرفیت 256 گیگابایت رم 12 گیگابایت",
-      "image": "/src/images/incredibles/image-04.jpg",
+      "image": "https://s33.picofile.com/file/8484785742/image_04.jpg",
       "alt": "",
       "price1": "۲۵,۹۰۰,۰۰۰",
       "price2": "۲۴,۸۷۰,۰۰۰",
@@ -321,7 +321,7 @@
     {
       "id": 5,
       "title": "لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 A1502VA-BQ531-i5 13420H-24GB DDR4-512GB SSD-TN - کاستوم شده",
-      "image": "/src/images/incredibles/image-05.jpg",
+      "image": "https://s33.picofile.com/file/8484785750/image_05.jpg",
       "alt": "",
       "price1": "۴۷,۵۹۰,۰۰۰",
       "price2": "۴۳,۷۹۹,۰۰۰",
@@ -330,7 +330,7 @@
     {
       "id": 6,
       "title": "لپ تاپ 15.6 اینچی ام اس آی مدل Thin 15 B12UCX-i5 12450H-16GB DDR4-1TB SSD-RTX2050-FHD",
-      "image": "/src/images/incredibles/image-06.jpg",
+      "image": "https://s33.picofile.com/file/8484785768/image_06.jpg",
       "alt": "",
       "price1": "۵۴,۴۹۹,۰۰۰",
       "price2": "۵۱,۴۹۹,۰۰۰",
@@ -339,7 +339,7 @@
     {
       "id": 7,
       "title": "لپ تاپ 15.3 اینچی اپل مدل MacBook Air MXD33 2024 LLA-M3-16GB RAM-512GB SSD",
-      "image": "/src/images/incredibles/image-07.jpg",
+      "image": "https://s33.picofile.com/file/8484785776/image_07.jpg",
       "alt": "",
       "price1": "۱۱۱,۴۹۹,۰۰۰",
       "price2": "۱۰۸,۶۹۹,۰۰۰",
@@ -348,7 +348,7 @@
     {
       "id": 8,
       "title": "ساعت هوشمند وونک مدل VS1-47 ultra2",
-      "image": "/src/images/incredibles/image-08.jpg",
+      "image": "https://s33.picofile.com/file/8484785784/image_08.jpg",
       "alt": "",
       "price1": "۶,۰۰۰,۰۰۰",
       "price2": "۱,۸۹۹,۰۰۰",
@@ -357,7 +357,7 @@
     {
       "id": 9,
       "title": "ساعت هوشمند 35 میلی متری مدل SPACE SW4020 AMOLED",
-      "image": "/src/images/incredibles/image-09.jpg",
+      "image": "https://s33.picofile.com/file/8484785792/image_09.jpg",
       "alt": "",
       "price1": "۵,۸۵۰,۰۰۰",
       "price2": "۳,۹۹۰,۰۰۰",
@@ -366,7 +366,7 @@
     {
       "id": 10,
       "title": "کرم ضد آفتاب رنگی آرت وینا، SPF 50 مدل آلوئه‌ورا مناسب انواع پوست، تنالیته رنگ متوسط، حجم 50 میلی‌لیتر، حاوی محافظ UVA ،UVB و PA+++، ضد پیری، دارای فرمولاسیون شیمیایی، با ماندگاری 4 ساعته",
-      "image": "/src/images/incredibles/image-10.jpg",
+      "image": "https://s33.picofile.com/file/8484785800/image_10.jpg",
       "alt": "",
       "price1": "۱,۳۶۷,۰۰۰",
       "price2": "۳۹۷,۰۰۰",
@@ -375,7 +375,7 @@
     {
       "id": 11,
       "title": "گوته نخت ملاتونین یوروویتال -  1 میلی گرم بسته 60 عددی",
-      "image": "/src/images/incredibles/image-11.jpg",
+      "image": "https://s33.picofile.com/file/8484785818/image_11.jpg",
       "alt": "",
       "price1": "۷۳۰,۵۰۰",
       "price2": "۹۹,۱۹۰",
@@ -384,7 +384,7 @@
     {
       "id": 12,
       "title": "قرص بیوتین 800 میکروگرم Health اید بسته 30 عددی",
-      "image": "/src/images/incredibles/image-12.jpg",
+      "image": "https://s33.picofile.com/file/8484785826/image_12.jpg",
       "alt": "",
       "price1": "۷۵,۹۰۰",
       "price2": "۲۷,۰۴۰",
@@ -392,43 +392,43 @@
     }
   ],
   "overview1": [
-    { "id": 1, "image": "/src/images/different/image-1.gif", "alt": "" },
-    { "id": 2, "image": "/src/images/different/image-02.jpg", "alt": "" },
-    { "id": 3, "image": "/src/images/different/image-03.jpg", "alt": "" },
-    { "id": 4, "image": "/src/images/different/image-04.jpg", "alt": "" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484782084/image_1.gif", "alt": "" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484782092/image_02.jpg", "alt": "" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484782118/image_03.jpg", "alt": "" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484782126/image_04.jpg", "alt": "" }
   ],
   "incredibles2": [
     {
       "id": 1,
-      "image": "/src/images/incredibles2/image-193.jpg",
+      "image": "https://s33.picofile.com/file/8484786050/image_193.jpg",
       "link": "#",
       "takhfif": "۴۵٪",
       "alt": "مایع دستشویی وانیلیا مدل رز حجم 3000 میلی لیتر"
     },
     {
       "id": 2,
-      "image": "/src/images/incredibles2/image-198.jpg",
+      "image": "https://s33.picofile.com/file/8484786068/image_198.jpg",
       "link": "#",
       "takhfif": "۴۴٪",
       "alt": "اسکاچ کاتوس مدل مروارید مجموعه 2 عددی"
     },
     {
       "id": 3,
-      "image": "/src/images/incredibles2/image-200.jpg",
+      "image": "https://s33.picofile.com/file/8484786084/image_200.jpg",
       "link": "#",
       "takhfif": "۴۰٪",
       "alt": "سوسيس هات داگ پنير 60 درصد گوشت قرمز مهيا پروتئين - 1 کيلوگرم"
     },
     {
       "id": 4,
-      "image": "/src/images/incredibles2/image-204.png",
+      "image": "https://s33.picofile.com/file/8484786092/image_204.png",
       "link": "#",
       "takhfif": "۴۰٪",
       "alt": "نبات زعفرانی مصطفوی مقدار 500 گرم"
     },
     {
       "id": 5,
-      "image": "/src/images/incredibles2/image-206.jpg",
+      "image": "https://s33.picofile.com/file/8484786118/image_206.jpg",
       "link": "#",
       "takhfif": "۴۰٪",
       "alt": "زیتون پرورده با مغز گردو لواسانی - 500 گرم"
@@ -438,155 +438,155 @@
     {
       "id": 1,
       "title": "موبایل",
-      "image": "/src/images/different/image-400.jpg",
+      "image": "https://s33.picofile.com/file/8484783650/image_400.jpg",
       "link": "#",
       "alt": "موبایل"
     },
     {
       "id": 2,
       "title": "طلا و نقره",
-      "image": "/src/images/different/image-401.jpg",
+      "image": "https://s33.picofile.com/file/8484783668/image_401.jpg",
       "link": "#",
       "alt": "طلا و نقره"
     },
     {
       "id": 3,
       "title": "لپ تاپ",
-      "image": "/src/images/different/image-402.jpg",
+      "image": "https://s33.picofile.com/file/8484783676/image_402.jpg",
       "link": "#",
       "alt": "لپ تاپ"
     },
     {
       "id": 4,
       "title": "تجهیزات پزشکی و سلامت",
-      "image": "/src/images/different/image-403.jpg",
+      "image": "https://s33.picofile.com/file/8484783684/image_403.jpg",
       "link": "#",
       "alt": "تجهیزات پزشکی و سلامت"
     },
     {
       "id": 5,
       "title": "کالای دیجیتال",
-      "image": "/src/images/different/image-404.jpg",
+      "image": "https://s33.picofile.com/file/8484783692/image_404.jpg",
       "link": "#",
       "alt": "کالای دیجیتال"
     },
     {
       "id": 6,
       "title": "کتاب، لوازم تحریر و هنر",
-      "image": "/src/images/different/image-405.jpg",
+      "image": "https://s33.picofile.com/file/8484783700/image_405.jpg",
       "link": "#",
       "alt": "کتاب، لوازم تحریر و هنر"
     },
     {
       "id": 7,
       "title": "خانه و آشپزخانه",
-      "image": "/src/images/different/image-406.jpg",
+      "image": "https://s33.picofile.com/file/8484783718/image_406.jpg",
       "link": "#",
       "alt": "خانه و آشپزخانه"
     },
     {
       "id": 8,
       "title": "ورزش و سفر",
-      "image": "/src/images/different/image-407.jpg",
+      "image": "https://s33.picofile.com/file/8484783726/image_407.jpg",
       "link": "#",
       "alt": "ورزش و سفر"
     },
     {
       "id": 9,
       "title": "لوازم خانگی برقی",
-      "image": "/src/images/different/image-408.jpg",
+      "image": "https://s33.picofile.com/file/8484783734/image_408.jpg",
       "link": "#",
       "alt": "لوازم خانگی برقی"
     },
     {
       "id": 10,
       "title": "کارت هدیه و گیفت کارت",
-      "image": "/src/images/different/image-409.jpg",
+      "image": "https://s33.picofile.com/file/8484783742/image_409.jpg",
       "link": "#",
       "alt": "کارت هدیه و گیفت کارت"
     },
     {
       "id": 11,
       "title": "آرایشی بهداشتی",
-      "image": "/src/images/different/image-410.jpg",
+      "image": "https://s33.picofile.com/file/8484783750/image_410.jpg",
       "link": "#",
       "alt": "آرایشی بهداشتی"
     },
     {
       "id": 12,
       "title": "سوپر مارکت آنلاین",
-      "image": "/src/images/different/image-411.jpg",
+      "image": "https://s33.picofile.com/file/8484783768/image_411.jpg",
       "link": "#",
       "alt": "سوپر مارکت آنلاین"
     },
     {
       "id": 13,
       "title": "خودرو و موتورسیکلت",
-      "image": "/src/images/different/image-412.jpg",
+      "image": "https://s33.picofile.com/file/8484783776/image_412.jpg",
       "link": "#",
       "alt": "خودرو و موتورسیکلت"
     },
     {
       "id": 14,
       "title": "اسباب بازی، کودک و نوزاد",
-      "image": "/src/images/different/image-413.jpg",
+      "image": "https://s33.picofile.com/file/8484783784/image_413.jpg",
       "link": "#",
       "alt": "اسباب بازی، کودک و نوزاد"
     },
     {
       "id": 15,
       "title": "ابزار آلات و تجهیزات",
-      "image": "/src/images/different/image-414.jpg",
+      "image": "https://s33.picofile.com/file/8484783792/image_414.jpg",
       "link": "#",
       "alt": "ابزار آلات و تجهیزات"
     },
     {
       "id": 16,
       "title": "محصولات بومی و محلی",
-      "image": "/src/images/different/image-415.jpg",
+      "image": "https://s33.picofile.com/file/8484783800/image_415.jpg",
       "link": "#",
       "alt": "محصولات بومی و محلی"
     },
     {
       "id": 17,
       "title": "مد و پوشاک",
-      "image": "/src/images/different/image-416.jpg",
+      "image": "https://s33.picofile.com/file/8484783818/image_416.jpg",
       "link": "#",
       "alt": "مد و پوشاک"
     },
     {
       "id": 18,
       "title": "کالای کارکرده",
-      "image": "/src/images/different/image-417.jpg",
+      "image": "https://s33.picofile.com/file/8484783826/image_417.jpg",
       "link": "#",
       "alt": "کالای کارکرده"
     }
   ],
 
   "overview2": [
-    { "id": 1, "image": "/src/images/different/image-09.jpg", "alt": "" },
-    { "id": 2, "image": "/src/images/different/image-10.jpg", "alt": "" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484782192/image_09.jpg", "alt": "" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484782200/image_10.jpg", "alt": "" }
   ],
   "brands": [
-    { "id": 1, "image": "/src/images/favariteBrands/image-1.png", "alt": "" },
-    { "id": 2, "image": "/src/images/favariteBrands/image-2.png", "alt": "" },
-    { "id": 3, "image": "/src/images/favariteBrands/image-3.jpg", "alt": "" },
-    { "id": 4, "image": "/src/images/favariteBrands/image-4.png", "alt": "" },
-    { "id": 5, "image": "/src/images/favariteBrands/image-5.png", "alt": "" },
-    { "id": 6, "image": "/src/images/favariteBrands/image-6.jpg", "alt": "" },
-    { "id": 7, "image": "/src/images/favariteBrands/image-7.jpg", "alt": "" },
-    { "id": 8, "image": "/src/images/favariteBrands/image-8.jpg", "alt": "" },
-    { "id": 9, "image": "/src/images/favariteBrands/image-9.png", "alt": "" },
-    { "id": 10, "image": "/src/images/favariteBrands/image-10.jpg", "alt": "" },
-    { "id": 11, "image": "/src/images/favariteBrands/image-11.png", "alt": "" },
-    { "id": 12, "image": "/src/images/favariteBrands/image-12.png", "alt": "" },
-    { "id": 13, "image": "/src/images/favariteBrands/image-13.jpg", "alt": "" },
-    { "id": 14, "image": "/src/images/favariteBrands/image-14.png", "alt": "" },
-    { "id": 15, "image": "/src/images/favariteBrands/image-15.png", "alt": "" },
-    { "id": 16, "image": "/src/images/favariteBrands/image-16.jpg", "alt": "" },
-    { "id": 17, "image": "/src/images/favariteBrands/image-17.png", "alt": "" },
-    { "id": 18, "image": "/src/images/favariteBrands/image-18.jpg", "alt": "" },
-    { "id": 19, "image": "/src/images/favariteBrands/image-19.jpg", "alt": "" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484784368/image_1.png", "alt": "" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484784376/image_2.png", "alt": "" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484784384/image_3.jpg", "alt": "" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484784400/image_4.png", "alt": "" },
+    { "id": 5, "image": "https://s33.picofile.com/file/8484784418/image_5.png", "alt": "" },
+    { "id": 6, "image": "https://s33.picofile.com/file/8484784426/image_6.jpg", "alt": "" },
+    { "id": 7, "image": "https://s33.picofile.com/file/8484784434/image_7.jpg", "alt": "" },
+    { "id": 8, "image": "https://s33.picofile.com/file/8484784442/image_8.jpg", "alt": "" },
+    { "id": 9, "image": "https://s33.picofile.com/file/8484784468/image_9.png", "alt": "" },
+    { "id": 10, "image": "https://s33.picofile.com/file/8484784476/image_10.jpg", "alt": "" },
+    { "id": 11, "image": "https://s33.picofile.com/file/8484784484/image_11.png", "alt": "" },
+    { "id": 12, "image": "https://s33.picofile.com/file/8484784492/image_12.png", "alt": "" },
+    { "id": 13, "image": "https://s33.picofile.com/file/8484784500/image_13.jpg", "alt": "" },
+    { "id": 14, "image": "https://s33.picofile.com/file/8484784518/image_14.png", "alt": "" },
+    { "id": 15, "image": "https://s33.picofile.com/file/8484784534/image_15.png", "alt": "" },
+    { "id": 16, "image": "https://s33.picofile.com/file/8484784542/image_16.jpg", "alt": "" },
+    { "id": 17, "image": "https://s33.picofile.com/file/8484784550/image_17.png", "alt": "" },
+    { "id": 18, "image": "https://s33.picofile.com/file/8484784568/image_18.jpg", "alt": "" },
+    { "id": 19, "image": "https://s33.picofile.com/file/8484784584/image_19.jpg", "alt": "" }
   ],
   "category4": [
     {
@@ -594,12 +594,12 @@
       "title": "بند ساعت و مچ‌ بند",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-50.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-12.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782718/image_50.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782226/image_12.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-13.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-14.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782234/image_13.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782250/image_14.jpg", "alt": "" }
       ]
     },
     {
@@ -607,12 +607,12 @@
       "title": "گوشی موبایل",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-15.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-16.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782276/image_15.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782284/image_16.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-17.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-18.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782292/image_17.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782300/image_18.jpg", "alt": "" }
       ]
     },
     {
@@ -620,12 +620,12 @@
       "title": "هدفون، هدست و هندزفری ",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-19.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-20.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782318/image_19.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782326/image_20.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-21.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-22.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782334/image_21.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782350/image_22.jpg", "alt": "" }
       ]
     },
     {
@@ -633,138 +633,138 @@
       "title": "کیف و کاور تبلت",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-23.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-24.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782368/image_23.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782376/image_24.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-25.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-26.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782392/image_25.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782400/image_26.jpg", "alt": "" }
       ]
     }
   ],
   "moreSales": [
     {
       "id": 1,
-      "image": "/src/images/different/image-27.webp",
+      "image": "https://s33.picofile.com/file/8484782434/image_27.webp.html",
       "alt": "",
       "number": "۱",
       "title": "هل سبز مصطفوی - 10 گرم"
     },
     {
       "id": 2,
-      "image": "/src/images/different/image-28.webp",
+      "image": "https://s33.picofile.com/file/8484782442/image_28.webp.html",
       "alt": "",
       "number": "۲",
       "title": "رب گوجه فرنگی روژین مقدار 800 گرم"
     },
     {
       "id": 3,
-      "image": "/src/images/different/image-29.webp",
+      "image": "https://s33.picofile.com/file/8484782450/image_29.webp.html",
       "alt": "",
       "number": "۳",
       "title": "کنسرو ماهی تون چین چین - 180 گرم"
     },
     {
       "id": 4,
-      "image": "/src/images/different/image-30.webp",
+      "image": "https://s33.picofile.com/file/8484782468/image_30.webp.html",
       "alt": "",
       "number": "۴",
       "title": "پنیر سفید ایرانی پگاه - 400 گرم"
     },
     {
       "id": 5,
-      "image": "/src/images/different/image-31.webp",
+      "image": "https://s33.picofile.com/file/8484782476/image_31.webp.html",
       "alt": "",
       "number": "۵",
       "title": "خامه فرادما پگاه مقدار 200 میلی لیتر"
     },
     {
       "id": 6,
-      "image": "/src/images/different/image-32.webp",
+      "image": "https://s33.picofile.com/file/8484782484/image_32.webp.html",
       "alt": "",
       "number": "۶",
       "title": "شکر سفید الماس دانه - 1 کیلوگرم"
     },
     {
       "id": 7,
-      "image": "/src/images/different/image-33.webp",
+      "image": "https://s33.picofile.com/file/8484782492/image_33.webp.html",
       "alt": "",
       "number": "۷",
       "title": "دستمال کاغذی 250 برگ دو لایه تنو مدل 001"
     },
     {
       "id": 8,
-      "image": "/src/images/different/image-36.webp",
+      "image": "https://s33.picofile.com/file/8484782568/image_36.webp.html",
       "alt": "",
       "number": "۸",
       "title": "کالباس 90 درصد گوشت مرغ مهيا پروتئين - 250 گرم"
     },
     {
       "id": 9,
-      "image": "/src/images/different/image-35.webp",
+      "image": "https://s33.picofile.com/file/8484782542/image_35.webp.html",
       "alt": "",
       "number": "۹",
       "title": "پنیر فتا دوشه هراز - 400 گرم"
     },
     {
       "id": 10,
-      "image": "/src/images/different/image-37.webp",
+      "image": "https://s33.picofile.com/file/8484782584/image_37.webp.html",
       "alt": "",
       "number": "۱۰",
       "title": "کره کاله - 100 گرم"
     },
     {
       "id": 11,
-      "image": "/src/images/different/image-38.webp",
+      "image": "https://s33.picofile.com/file/8484782626/image_38.webp.html",
       "alt": "",
       "number": "۱۱",
       "title": "روغن سرخ کردنی بدون پالم شفاف ساعی - 1620 گرم"
     },
     {
       "id": 12,
-      "image": "/src/images/different/image-39.webp",
+      "image": "https://s33.picofile.com/file/8484782642/image_39.webp.html",
       "alt": "",
       "number": "۱۲",
       "title": "قرص جوشان ویتامین ث 1000 میلی گرمی  بسته 20 عددی"
     },
     {
       "id": 13,
-      "image": "/src/images/different/image-27.webp",
+      "image": "https://s33.picofile.com/file/8484782434/image_27.webp.html",
       "alt": "",
       "number": "۱۳",
       "title": "هل سبز مصطفوی - 10 گرم"
     },
     {
       "id": 14,
-      "image": "/src/images/different/image-41.webp",
+      "image": "https://s33.picofile.com/file/8484782676/image_41.webp.html",
       "alt": "",
       "number": "۱۴",
       "title": "تخم مرغ گرید A سیمرغ بسته 20 عددی"
     },
     {
       "id": 15,
-      "image": "/src/images/different/image-40.webp",
+      "image": "https://s33.picofile.com/file/8484782668/image_40.webp.html",
       "alt": "",
       "number": "۱۵",
       "title": "گلاب مصطفوی - 500 میلی لیتر"
     },
     {
       "id": 16,
-      "image": "/src/images/different/image-42.webp",
+      "image": "https://s33.picofile.com/file/8484782684/image_42.webp.html",
       "alt": "",
       "number": "۱۶",
       "title": "کرم ضدآفتاب و ضدلک بی‌رنگ لافارر مدل SPF50، مناسب پوست‌های چرب، حجم 40 میلی‌لیتر"
     },
     {
       "id": 17,
-      "image": "/src/images/different/image-43.webp",
+      "image": "https://s33.picofile.com/file/8484782692/image_43.webp.html",
       "alt": "",
       "number": "۱۷",
       "title": "کره پاستوریزه پاک مقدار 50 گرم"
     },
     {
       "id": 18,
-      "image": "/src/images/different/image-44.webp",
+      "image": "https://s33.picofile.com/file/8484782700/image_44.webp.html",
       "alt": "",
       "number": "۱۸",
       "title": "کره کاله - 50 گرم"
@@ -776,12 +776,12 @@
       "title": "کیف و کاور گوشی",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-50.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-51.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782718/image_50.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782726/image_51.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-52.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-53.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782734/image_52.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782742/image_53.jpg", "alt": "" }
       ]
     },
     {
@@ -789,12 +789,12 @@
       "title": "ساعت عقربه ای مردانه ",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-54.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-55.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782750/image_54.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782768/image_55.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-56.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-57.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782776/image_56.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782784/image_57.jpg", "alt": "" }
       ]
     },
     {
@@ -802,12 +802,12 @@
       "title": "لپ تاپ و الترابوک",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-58.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-59.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782792/image_58.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782800/image_59.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-60.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-61.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782818/image_60.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782826/image_61.jpg", "alt": "" }
       ]
     },
     {
@@ -815,19 +815,19 @@
       "title": "ساعت هوشمند",
       "subtitle": "بر اساس سلیقه شما",
       "images1": [
-        { "id": 1, "image": "/src/images/different/image-62.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-63.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782834/image_62.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782850/image_63.jpg", "alt": "" }
       ],
       "images2": [
-        { "id": 1, "image": "/src/images/different/image-64.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image-65.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782868/image_64.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484782876/image_65.jpg", "alt": "" }
       ]
     }
   ],
   "selectedProducts": [
     {
       "id": 1,
-      "image": "/src/images/different/image-100.jpg",
+      "image": "https://s33.picofile.com/file/8484783200/image_100.jpg",
       "alt": "کاور مدل happy-ge4 مناسب برای گوشی موبایل شیائومی Redmi Note 8 pro",
       "takhfif": "۸۹٪",
       "price1": "۱,۰۰۰,۰۰۰",
@@ -835,7 +835,7 @@
     },
     {
       "id": 2,
-      "image": "/src/images/different/image-101.jpg",
+      "image": "https://s33.picofile.com/file/8484783218/image_101.jpg",
       "alt": "کاور مدل happy-ge7 مناسب برای گوشی موبایل شیائومی Redmi Note 13 4g",
       "takhfif": "۸۹٪",
       "price1": "۱,۱۰۰,۰۰۰",
@@ -843,7 +843,7 @@
     },
     {
       "id": 3,
-      "image": "/src/images/different/image-102.jpg",
+      "image": "https://s33.picofile.com/file/8484783226/image_102.jpg",
       "alt": "کاور مدل happy-gu4 مناسب برای گوشی موبایل شیائومی Redmi Note 8 pro ",
       "takhfif": "۸۹٪",
       "price1": "۹۰۰,۰۰۰",
@@ -851,7 +851,7 @@
     },
     {
       "id": 4,
-      "image": "/src/images/different/image-103.jpg",
+      "image": "https://s33.picofile.com/file/8484783234/image_103.jpg",
       "alt": "کاور مدل happy-gw8 مناسب برای گوشی موبایل شیائومی Redmi Note 8 pro ",
       "takhfif": "۸۹٪",
       "price1": "۹۰۰,۰۰۰",
@@ -859,7 +859,7 @@
     },
     {
       "id": 5,
-      "image": "/src/images/different/image-104.jpg",
+      "image": "https://s33.picofile.com/file/8484783242/image_104.jpg",
       "alt": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت",
       "takhfif": "۲۸٪",
       "price1": "۳,۱۰۰,۰۰۰",
@@ -867,7 +867,7 @@
     },
     {
       "id": 6,
-      "image": "/src/images/different/image-105.jpg",
+      "image": "https://s33.picofile.com/file/8484783276/image_105.jpg",
       "alt": "گوشی موبایل اپل مدل iPhone 13 Pro Max CH دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 6 گیگابایت - نات اکتیو",
       "takhfif": "۲۳٪",
       "price1": "۱۲۵,۰۰۰,۰۰۰",
@@ -875,7 +875,7 @@
     },
     {
       "id": 7,
-      "image": "/src/images/different/image-106.jpg",
+      "image": "https://s33.picofile.com/file/8484783284/image_106.jpg",
       "alt": "گوشی موبایل هانوفر مدل V6 دو سیم کارت ظرفیت 32 مگابایت",
       "takhfif": "۲۳٪",
       "price1": "۱۲۵,۰۰۰,۰۰۰",
@@ -883,7 +883,7 @@
     },
     {
       "id": 8,
-      "image": "/src/images/different/image-107.jpg",
+      "image": "https://s33.picofile.com/file/8484783292/image_107.jpg",
       "alt": "گوشی موبایل اپل مدل iPhone 13 Pro Max ZDA تک سیم‌ کارت ظرفیت 512 گیگابایت و رم 6 گیگابایت - نات اکتیو - پارت نامبر F",
       "takhfif": "۱۷٪",
       "price1": "۹۸,۹۹۹,۰۰۰",
@@ -891,7 +891,7 @@
     },
     {
       "id": 9,
-      "image": "/src/images/different/image-108.jpg",
+      "image": "https://s33.picofile.com/file/8484783300/image_108.jpg",
       "alt": "هدفون بی سیم مدل TG-Pro2 2023",
       "takhfif": "۸۹٪",
       "price1": "۴,۰۰۰,۰۰۰",
@@ -899,7 +899,7 @@
     },
     {
       "id": 10,
-      "image": "/src/images/different/image-109.jpg",
+      "image": "https://s33.picofile.com/file/8484783318/image_109.jpg",
       "alt": "هدفون&nbsp;بلوتوثی مدل ایرپاد پرو 2024 کد hi1010chi",
       "takhfif": "۸۹٪",
       "price1": "۳,۴۰۰,۰۰۰",
@@ -907,7 +907,7 @@
     },
     {
       "id": 11,
-      "image": "/src/images/different/image-110.jpg",
+      "image": "https://s33.picofile.com/file/8484783334/image_110.jpg",
       "alt": "هندزفری بلوتوثی فرست مدل airpods pro 2 -First",
       "takhfif": "۸۹٪",
       "price1": "۳,۳۰۰,۰۰۰",
@@ -915,7 +915,7 @@
     },
     {
       "id": 12,
-      "image": "/src/images/different/image-111.jpg",
+      "image": "https://s33.picofile.com/file/8484783342/image_111.jpg",
       "alt": "هدفون&nbsp;بلوتوثی مدل airpods pro rl-m Air-RO365",
       "takhfif": "۸۸٪",
       "price1": "۴,۰۰۰,۰۰۰",
@@ -923,7 +923,7 @@
     },
     {
       "id": 13,
-      "image": "/src/images/different/image-112.jpg",
+      "image": "https://s33.picofile.com/file/8484783350/image_112.jpg",
       "alt": "کاور لوکسار مدل matte مناسب برای تبلت اپل 9.7 اینج  iPad 2 / iPad 3 / iPad 4",
       "takhfif": "۵۵٪",
       "price1": "۱,۰۰۰,۰۰۰",
@@ -931,7 +931,7 @@
     },
     {
       "id": 14,
-      "image": "/src/images/different/image-113.jpg",
+      "image": "https://s33.picofile.com/file/8484783368/image_113.jpg",
       "alt": "کاور بادیگارد مدل Kickstand مناسب برای تبلت اپل iPad Pro 12.9",
       "takhfif": "۵۰٪",
       "price1": " ۸۹۵,۰۰۰",
@@ -939,7 +939,7 @@
     },
     {
       "id": 15,
-      "image": "/src/images/different/image-114.jpg",
+      "image": "https://s33.picofile.com/file/8484783376/image_114.jpg",
       "alt": "کاور لوکسار مدل matte مناسب برای تبلت شیائومی Redmi Pad 6 / Redmi Pad 6 Pro",
       "takhfif": "۴۸٪",
       "price1": " ۱,۲۰۰,۰۰۰",
@@ -947,7 +947,7 @@
     },
     {
       "id": 16,
-      "image": "/src/images/different/image-115.jpg",
+      "image": "https://s33.picofile.com/file/8484783384/image_115.jpg",
       "alt": "کاور لوکسار مدل matte مناسب برای تبلت سامسونگ Galaxy Tab S6 Lite / P615 / P610",
       "takhfif": "۴۸٪",
       "price1": "۱,۲۰۰,۰۰۰",
@@ -955,7 +955,7 @@
     },
     {
       "id": 17,
-      "image": "/src/images/different/image-116.jpg",
+      "image": "https://s33.picofile.com/file/8484783392/image_116.jpg",
       "alt": "بند تهران پکن مدل Armor کد durapro مناسب برای ساعت هوشمند اپل سری Se/1/2/3/4/5/6/7/8/9 سایز 42/44/45/49",
       "takhfif": "۵۵٪",
       "price1": "۱,۸۵۰,۰۰۰",
@@ -963,7 +963,7 @@
     },
     {
       "id": 18,
-      "image": "/src/images/different/image-117.jpg",
+      "image": "https://s33.picofile.com/file/8484783400/image_117.jpg",
       "alt": "بند قاب تک مدل FEATHER مناسب برای ساعت هوشمند آمیزفیت GTR 2",
       "takhfif": "۱۳٪",
       "price1": "۲۵۳,۰۰۰",
@@ -973,109 +973,109 @@
   "hottestLastFewHours": [
     {
       "id": 1,
-      "image": "/src/images/different/image-70.webp",
+      "image": "https://s33.picofile.com/file/8484782900/image_70.webp.html",
       "number": "۱",
       "title": "روکش توالت فرنگی نکس کر مدل حل شونده بسته 100 عددی"
     },
     {
       "id": 2,
-      "image": "/src/images/different/image-71.webp",
+      "image": "https://s33.picofile.com/file/8484782918/image_71.webp.html",
       "number": "۲",
       "title": "هدست کلاه ایمنی ایکس او مدل BE47"
     },
     {
       "id": 3,
-      "image": "/src/images/different/image-72.webp",
+      "image": "https://s33.picofile.com/file/8484782942/image_72.webp.html",
       "number": "۳",
       "title": " ساعت مچی عقربه‌ای مردانه امپریو آرمانی مدل AR11216"
     },
     {
       "id": 4,
-      "image": "/src/images/different/image-73.webp",
+      "image": "https://s33.picofile.com/file/8484782976/image_73.webp.html",
       "number": "۴",
       "title": "اسپرسو ساز یونیک لایف مدل UL- 6857"
     },
     {
       "id": 5,
-      "image": "/src/images/different/image-74.webp",
+      "image": "https://s33.picofile.com/file/8484782984/image_74.webp.html",
       "number": "۵",
       "title": "قرص سوپرابیون سیترا مگ ب6 بسته 60 عددی"
     },
     {
       "id": 6,
-      "image": "/src/images/different/image-75.webp",
+      "image": "https://s33.picofile.com/file/8484782992/image_75.webp.html",
       "number": "۶",
       "title": "لپ تاپ 15.6 اینچی ام اس آی مدل Modern 15 H AI C1MG-Core Ultra 7-16GB DDR5-1TB SSD-IPS"
     },
     {
       "id": 7,
-      "image": "/src/images/different/image-76.webp",
+      "image": "https://s33.picofile.com/file/8484783000/image_76.webp.html",
       "number": "۷",
       "title": "صندلی اپن هوگر مدل BH360"
     },
     {
       "id": 8,
-      "image": "/src/images/different/image-77.webp",
+      "image": "https://s33.picofile.com/file/8484783018/image_77.webp.html",
       "number": "۸",
       "title": "اس اس دی اینترنال ام اس آی مدل SPATIUM M460 ظرفیت یک ترابایت"
     },
     {
       "id": 9,
-      "image": "/src/images/different/image-78.webp",
+      "image": "https://s33.picofile.com/file/8484783026/image_78.webp.html",
       "number": "۹",
       "title": "کاپوچینو رژیمی ونزکافه بسته 20 عددی"
     },
     {
       "id": 10,
-      "image": "/src/images/different/image-79.webp",
+      "image": "https://s33.picofile.com/file/8484783034/image_79.webp.html",
       "number": "۱۰",
       "title": " مانیتور خمیده گیمینگ 32 اینچ ام اس آی مدل MAG 32C6X، رزولوشن Full HD، پنل VA، نرخ بروزرسانی 250 هرتز، با نسبت تصویر 16:9،"
     },
     {
       "id": 11,
-      "image": "/src/images/different/image-80.webp",
+      "image": "https://s33.picofile.com/file/8484784092/image_80.webp.html",
       "number": "۱۱",
       "title": "پتو مسافرتی شایسته مدل قلبی سایز 160X210 سانتی متر"
     },
     {
       "id": 12,
-      "image": "/src/images/different/image-81.webp",
+      "image": "https://s33.picofile.com/file/8484783076/image_81.webp.html",
       "number": "۱۲",
       "title": "قرص ویتامین D3 هلث پلاس بسته 30 عددی"
     },
     {
       "id": 13,
-      "image": "/src/images/different/image-82.webp",
+      "image": "https://s33.picofile.com/file/8484783092/image_82.webp.html",
       "number": "۱۳",
       "title": "سرویس روتختی مانیکاهوم مدل AYRAL PLUS آیرال پلاس دونفره چهار تکه"
     },
     {
       "id": 14,
-      "image": "/src/images/different/image-83.webp",
+      "image": "https://s33.picofile.com/file/8484783126/image_83.webp.html",
       "number": "۱۴",
       "title": "کرم ضدآفتاب سان‌سیف مدل 003، حجم 50 میلی‌لیتر"
     },
     {
       "id": 15,
-      "image": "/src/images/different/image-84.webp",
+      "image": "https://s33.picofile.com/file/8484783142/image_84.webp.html",
       "number": "۱۵",
       "title": "مجموعه 46 عددی آچار و سری بکس باس کد 46s"
     },
     {
       "id": 16,
-      "image": "/src/images/different/image-85.webp",
+      "image": "https://s33.picofile.com/file/8484783150/image_85.webp.html",
       "number": "۱۶",
       "title": "سرویس پخت و پز 8 پارچه زرساب مدل مینت کد ML-7430"
     },
     {
       "id": 17,
-      "image": "/src/images/different/image-86.webp",
+      "image": "https://s33.picofile.com/file/8484783176/image_86.webp.html",
       "number": "۱۷",
       "title": "پاوربانک لیتو مدل LP-42 ظرفیت 20000 میلی‌آمپرساعت"
     },
     {
       "id": 18,
-      "image": "/src/images/different/image-87.webp",
+      "image": "https://s33.picofile.com/file/8484783192/image_87.webp.html",
       "number": "۱۸",
       "title": " پتو افرا هوم مدل تن پوش سایز 180×140 سانتی متر"
     }
@@ -1083,25 +1083,25 @@
   "khandaniha": [
     {
       "id": 1,
-      "image": "/src/images/different/image-80.jpg",
+      "image": "https://s33.picofile.com/file/8484783042/image_80.jpg",
       "alt": "",
       "title": "از شام تکراری خسته شدید؟ ۷۰ پیشنهاد خوشمزه برای همه سلیقه‌ها"
     },
     {
       "id": 2,
-      "image": "/src/images/different/image-81.jpg",
+      "image": "https://s33.picofile.com/file/8484783050/image_81.jpg",
       "alt": "",
       "title": "بررسی خواص صابون گلیسیرین و تاثیر آن بر پوست"
     },
     {
       "id": 3,
-      "image": "/src/images/different/image-82.jpg",
+      "image": "https://s33.picofile.com/file/8484783084/image_82.jpg",
       "alt": "",
       "title": "مهم‌ترین علت لرزش ماشین لباسشویی چیست؟"
     },
     {
       "id": 4,
-      "image": "/src/images/different/image-83.jpg",
+      "image": "https://s33.picofile.com/file/8484783118/image_83.jpg",
       "alt": "",
       "title": "ساعات اوج مصرف برق در تابستان؛ چگونه قبض برق را نصف کنیم؟"
     }
@@ -1109,25 +1109,25 @@
   "footer1": [
     {
       "id": 1,
-      "image": "/src/images/footer/cash-on-delivery.svg",
+      "image": "https://s33.picofile.com/file/8484784676/cash_on_delivery.svg.html",
       "alt": "",
       "title": "امکان پرداخت در محل"
     },
     {
       "id": 2,
-      "image": "/src/images/footer/support.svg",
+      "image": "https://s33.picofile.com/file/8484785134/support.svg.html",
       "alt": "",
       "title": " ۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
     },
     {
       "id": 3,
-      "image": "/src/images/footer/days-return.svg",
+      "image": "https://s33.picofile.com/file/8484784692/days_return.svg.html",
       "alt": "",
       "title": "هفت روز ضمانت بازگشت کالا"
     },
     {
       "id": 4,
-      "image": "/src/images/footer/original-products.svg",
+      "image": "https://s33.picofile.com/file/8484785018/original_products.svg.html",
       "alt": "",
       "title": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
     }
@@ -1165,33 +1165,33 @@
   "quickAccess2": [
     {
       "images": [
-        { "id": 1, "image": "/src/images/different/image70.jpg", "alt": "" },
-        { "id": 2, "image": "/src/images/different/image71.jpg", "alt": "" },
-        { "id": 3, "image": "/src/images/different/image72.jpg", "alt": "" },
-        { "id": 4, "image": "/src/images/different/image73.jpg", "alt": "" }
+        { "id": 1, "image": "https://s33.picofile.com/file/8484782884/image70.jpg", "alt": "" },
+        { "id": 2, "image": "https://s33.picofile.com/file/8484784076/image71.jpg", "alt": "" },
+        { "id": 3, "image": "https://s33.picofile.com/file/8484782934/image72.jpg", "alt": "" },
+        { "id": 4, "image": "https://s33.picofile.com/file/8484782968/image73.jpg", "alt": "" }
       ]
     }
   ],
   "footer2": [
-    { "id": 1, "image": "/src/images/footer/sapra.png", "alt": "" },
-    { "id": 2, "image": "/src/images/footer/rezi.png", "alt": "" },
-    { "id": 3, "image": "/src/images/footer/kasbokar.png", "alt": "" },
-    { "id": 4, "image": "/src/images/footer/image-sc-03.png", "alt": "" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484785076/sapra.png", "alt": "" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484785034/rezi.png", "alt": "" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484784950/kasbokar.png", "alt": "" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484784918/image_sc_03.png", "alt": "" }
   ],
   "footer3": [
-    { "id": 1, "image": "/src/images/footer/digimag.svg" },
-    { "id": 2, "image": "/src/images/footer/digipay.svg" },
-    { "id": 3, "image": "/src/images/footer/digistyle.svg" },
-    { "id": 4, "image": "/src/images/footer/digiplus.svg" },
-    { "id": 5, "image": "/src/images/footer/digiclub.svg" },
-    { "id": 6, "image": "/src/images/footer/jet.svg" },
-    { "id": 7, "image": "/src/images/footer/digiMehr.svg" },
-    { "id": 8, "image": "/src/images/footer/diginext.svg" },
-    { "id": 9, "image": "/src/images/footer/digiexpress.svg" },
-    { "id": 10, "image": "/src/images/footer/ganjeh.svg" },
-    { "id": 11, "image": "/src/images/footer/digify.svg" },
-    { "id": 12, "image": "/src/images/footer/smartech.svg" },
-    { "id": 13, "image": "/src/images/footer/digikala-business.svg" },
-    { "id": 14, "image": "/src/images/footer/digikala-service.svg" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484784776/digimag.svg.html" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484784818/digipay.svg.html" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484784834/digistyle.svg.html" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484784826/digiplus.svg.html" },
+    { "id": 5, "image": "https://s33.picofile.com/file/8484784700/digiclub.svg.html" },
+    { "id": 6, "image": "https://s33.picofile.com/file/8484784934/jet.svg.html" },
+    { "id": 7, "image": "https://s33.picofile.com/file/8484784784/digiMehr.svg.html" },
+    { "id": 8, "image": "https://s33.picofile.com/file/8484784800/diginext.svg.html" },
+    { "id": 9, "image": "https://s33.picofile.com/file/8484784726/digiexpress.svg.html" },
+    { "id": 10, "image": "https://s33.picofile.com/file/8484784892/ganjeh.svg.html" },
+    { "id": 11, "image": "https://s33.picofile.com/file/8484784734/digify.svg.html" },
+    { "id": 12, "image": "https://s33.picofile.com/file/8484785126/smartech.svg.html" },
+    { "id": 13, "image": "https://s33.picofile.com/file/8484784742/digikala_business.svg.html" },
+    { "id": 14, "image": "https://s33.picofile.com/file/8484784750/digikala_service.svg.html" }
   ]
 }
