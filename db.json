@@ -4,13 +4,13 @@
       "id": 1,
       "name": "شگفت انگیزها",
       "link": "#",
-      "icon": "/src/images/header/image-1.jpg"
+      "icon": "src/images/header/image-1.jpg"
     },
     {
       "id": 2,
       "name": "سوپرمارکت",
       "link": "#",
-      "icon": "/src/images/header/image-2.jpg"
+      "icon": "src/images/header/image-2.jpg"
     },
     {
       "id": 3,
