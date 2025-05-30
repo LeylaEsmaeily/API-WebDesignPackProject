@@ -1109,25 +1109,25 @@
   "footer1": [
     {
       "id": 1,
-      "image": "https://s33.picofile.com/file/8484784676/cash_on_delivery.svg.html",
+      "image": "https://s33.picofile.com/file/8484787992/cash_on_delivery_11zon.jpg",
       "alt": "",
       "title": "امکان پرداخت در محل"
     },
     {
       "id": 2,
-      "image": "https://s33.picofile.com/file/8484785134/support.svg.html",
+      "image": "https://s33.picofile.com/file/8484788334/support.jpg",
       "alt": "",
       "title": " ۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
     },
     {
       "id": 3,
-      "image": "https://s33.picofile.com/file/8484784692/days_return.svg.html",
+      "image": "https://s33.picofile.com/file/8484788018/days_return_11zon.jpg",
       "alt": "",
       "title": "هفت روز ضمانت بازگشت کالا"
     },
     {
       "id": 4,
-      "image": "https://s33.picofile.com/file/8484785018/original_products.svg.html",
+      "image": "https://s33.picofile.com/file/8484788242/original_products_11zon.jpg",
       "alt": "",
       "title": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
     }
@@ -1179,19 +1179,19 @@
     { "id": 4, "image": "https://s33.picofile.com/file/8484784918/image_sc_03.png", "alt": "" }
   ],
   "footer3": [
-    { "id": 1, "image": "https://s33.picofile.com/file/8484784776/digimag.svg.html" },
-    { "id": 2, "image": "https://s33.picofile.com/file/8484784818/digipay.svg.html" },
-    { "id": 3, "image": "https://s33.picofile.com/file/8484784834/digistyle.svg.html" },
-    { "id": 4, "image": "https://s33.picofile.com/file/8484784826/digiplus.svg.html" },
-    { "id": 5, "image": "https://s33.picofile.com/file/8484784700/digiclub.svg.html" },
-    { "id": 6, "image": "https://s33.picofile.com/file/8484784934/jet.svg.html" },
-    { "id": 7, "image": "https://s33.picofile.com/file/8484784784/digiMehr.svg.html" },
-    { "id": 8, "image": "https://s33.picofile.com/file/8484784800/diginext.svg.html" },
-    { "id": 9, "image": "https://s33.picofile.com/file/8484784726/digiexpress.svg.html" },
-    { "id": 10, "image": "https://s33.picofile.com/file/8484784892/ganjeh.svg.html" },
-    { "id": 11, "image": "https://s33.picofile.com/file/8484784734/digify.svg.html" },
-    { "id": 12, "image": "https://s33.picofile.com/file/8484785126/smartech.svg.html" },
-    { "id": 13, "image": "https://s33.picofile.com/file/8484784742/digikala_business.svg.html" },
-    { "id": 14, "image": "https://s33.picofile.com/file/8484784750/digikala_service.svg.html" }
+    { "id": 1, "image": "https://s33.picofile.com/file/8484788092/digimag_11zon.jpg" },
+    { "id": 2, "image": "https://s33.picofile.com/file/8484788126/digipay_11zon.jpg" },
+    { "id": 3, "image": "https://s33.picofile.com/file/8484788168/digistyle_11zon.jpg" },
+    { "id": 4, "image": "https://s33.picofile.com/file/8484788142/digiplus_11zon.jpg" },
+    { "id": 5, "image": "https://s33.picofile.com/file/8484788026/digiclub_11zon.jpg" },
+    { "id": 6, "image": "https://s33.picofile.com/file/8484788200/jet_11zon.jpg" },
+    { "id": 7, "image": "https://s33.picofile.com/file/8484788100/digiMehr_11zon.jpg" },
+    { "id": 8, "image": "https://s33.picofile.com/file/8484788118/diginext_11zon.jpg" },
+    { "id": 9, "image": "https://s33.picofile.com/file/8484788034/digiexpress_11zon.jpg" },
+    { "id": 10, "image": "https://s33.picofile.com/file/8484788192/ganjeh_11zon.jpg" },
+    { "id": 11, "image": "https://s33.picofile.com/file/8484788050/digify_11zon.jpg" },
+    { "id": 12, "image": "https://s33.picofile.com/file/8484788318/smartech.jpg" },
+    { "id": 13, "image": "https://s33.picofile.com/file/8484788068/digikala_business_11zon.jpg" },
+    { "id": 14, "image": "https://s33.picofile.com/file/8484788084/digikala_service_11zon.jpg" }
   ]
 }
